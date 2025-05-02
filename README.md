@@ -9,6 +9,9 @@ This repository contains my verified certificates for completed courses and trai
 ### ✅ C++ Programming Bootcamp  
 [📄 View Certificate](https://github.com/AamirRashid07/Certificates/raw/main/C%2B%2B%20Bootcamp.pdf)
 
----
 
-Feel free to view or download the certificate from the link above.
+### ✅ Netflix Clone Project - Let'sUpgrade  
+[📄 View Certificate](https://github.com/AamirRashid07/Certificates/raw/main/NetflixClone_LU.pdf)
+
+### ✅ DSA with C++ Bootcamp  
+[📄 View Certificate](https://github.com/AamirRashid07/Certificates/raw/main/DSA%20With%20C%2B%2B%20Bootcamp.pdf)
